@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Твой друг Данила</string>
+    <string name="btn_text_open_chat">Открыть чат</string>
+    <string name="hint_search">Поиск...</string>
+    <string name="title_welcome_message_">Что может этот чат-бот?</string>
+    <string name="text_welcome_message">Этот бот способен общаться с Вами на простые темы в юмористическом виде</string>
+</resources>
